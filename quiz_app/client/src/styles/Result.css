@@ -1,0 +1,43 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.container .flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.title{
+    padding: 5px;
+}
+
+.start{
+    margin-top: 7px;
+}
+
+table{
+    width: 100%;
+    margin-top: 10px;
+}
+.table-header{
+    
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    padding: 18px 0;
+}
+.table-body{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 18px 0;
+}
+.table-header>tr>td{
+    border: 1px solid yellow;
+}

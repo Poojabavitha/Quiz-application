@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+}
+
+.title{
+    padding: 5px;
+}
+.container{
+    
+    display: flex;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+}
